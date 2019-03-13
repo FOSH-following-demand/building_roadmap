@@ -1,4 +1,4 @@
-### This document contains information about the criteria used to select teams for this project's first making event:
+### This document contains information about the criteria used to select teams for this project's first making event and how they should apply for it.
 
 <br>
 
@@ -22,11 +22,15 @@ These are the initial thoughts:
 ### Applying for the event:
 #### note: This application method is based on previous experiences for similar workshops we organized with [TReND in Africa](trendinafrica.org). Other ideas and suggestions are welcome!
 
+---
+
 #### applications should be sent to: andremaia[at]mozillafoundation.org
 
 <br>
 
 #### Groups applying should be aware that their application will be made available online if they get selected.
+
+---
 
 - Groups can apply by sending two documents:
   - one page CV per group participant (3 participants in a group = 3 CVs) containing relevant experience in building free and open source hardware
@@ -34,11 +38,14 @@ These are the initial thoughts:
 
 After the building period ends, we will take time to evaluate how each project went. As we know most ideas don't execute the way they are thought out. Therefore, our idea of "doing well" is actually seeing proper documentation and logging of activities. Ideally other people from around the world could pick up the projects from where others left off (or in case the project is still going, to join forces and onboard with minimal effort).
 
+---
+
 ### what is expected of each group:
 - Work on an open and collaborative way, documenting their projects using Markdown and Git (we will provide guidance in case your group has never worked with Markdown and/or Git. This is not an exclusion criteria!).
 - Attend weekly calls to share progress, issues, new ideas and ways to collaborate.
 - Dedicate a minimal amount of time per week to work on the project and its documentation. (?suggestion 1/2 day per week?).
 
+---
 
 ### Why apply:
 Let us start by thanking you for considering applying to this event! Without your participation, this wouldn't be possible!
