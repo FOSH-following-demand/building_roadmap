@@ -18,19 +18,20 @@ These are the initial thoughts:
  
  <br>
 
+---
 
 ### Applying for the event:
 #### note: This application method is based on previous experiences for similar workshops we organized with [TReND in Africa](trendinafrica.org). Other ideas and suggestions are welcome!
 
----
+
 
 #### applications should be sent to: andremaia[at]mozillafoundation.org
 
-<br>
+
 
 #### Groups applying should be aware that their application will be made available online if they get selected.
 
----
+<br>
 
 - Groups can apply by sending two documents:
   - one page CV per group participant (3 participants in a group = 3 CVs) containing relevant experience in building free and open source hardware
