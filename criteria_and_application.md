@@ -23,7 +23,9 @@ These are the initial thoughts:
 #### note: This application method is based on previous experiences for similar workshops we organized with [TReND in Africa](trendinafrica.org). Other ideas and suggestions are welcome!
 
 #### applications should be sent to: andremaia[at]mozillafoundation.org
+
 <br>
+
 #### Groups applying should be aware that their application will be made available online if they get selected.
 
 - Groups can apply by sending two documents:
