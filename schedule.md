@@ -26,6 +26,7 @@ Moreover, we will be developing scientific tools, which will hopefully reach a s
    - Add a "existing projects" section and put all found projects there (see below for more details).
  - Code_of_conduct.md
    - Show collaborators and developers best practice and set boundaries in case things go wrong.
+- here are some example repositories dealing with hardware: [actifield](https://github.com/trendinafrica/actifield), [LightM](https://github.com/vektorious/lightM).
 
 
 
