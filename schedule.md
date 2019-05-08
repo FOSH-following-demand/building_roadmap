@@ -37,6 +37,7 @@ Moreover, we will be developing scientific tools, which will hopefully reach a s
 **Week2:**
 
 - Work on development plan and initial bill of materials
+- add to the repository, if not there yet, a license file and a contributing file
 - order parts
 - log advances and issues on repository
 - second call with mentor
