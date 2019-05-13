@@ -19,26 +19,28 @@ Moreover, we will be developing scientific tools, which will hopefully reach a s
 - setup github repositories
  - in case needed learn the basics of GitHub, using the many tutorials online ([ex1](https://lab.github.com/), [ex2](https://help.github.com/en/articles/git-and-github-learning-resources), [ex3](https://git-scm.com/doc), [ex4](https://help.github.com/en/articles/set-up-git)).
 
-
-- minimum requirements for your repository:
- - Readme.md
-   - Write a bit about what you are doing and why
-   - Add a "existing projects" section and put all found projects there (see below for more details).
- - Code_of_conduct.md
-   - Show collaborators and developers best practice and set boundaries in case things go wrong.
-- here are some example repositories dealing with hardware: [actifield](https://github.com/trendinafrica/actifield), [LightM](https://github.com/vektorious/lightM).
-
-
+- create a repository for your project and clone the structure present on our [template repo](https://github.com/FOSH-following-demand/equipment_repository_template)
 
 - research existing projects - find what is already available, so that you don't reinvent the wheel. Contact developers, maybe they would like to remotely contribute!
 
 - Draft a development plan (are you planning to 3D print the frame?, use modular elements?, make it battery powered?,wifi capabilities?).
+
+- Add draft and research to the repository
+
 - first call with mentor
 
 **Week2:**
 
 - Work on development plan and initial bill of materials
-- add to the repository, if not there yet, a license file and a contributing file
+- add to the repository, if not there yet, readme file, a license file, a contributing file and a code of conduct file
+ - Readme.md
+   - Write a bit about what you are doing and why
+   - Add a "existing projects" section and put all found projects there (see below for more details).
+ - Code_of_conduct.md
+   - Show collaborators and developers best practice and set boundaries in case things go wrong.
+
+- here are some example repositories dealing with hardware: [actifield](https://github.com/trendinafrica/actifield), [LightM](https://github.com/vektorious/lightM).
+
 - order parts
 - log advances and issues on repository
 - second call with mentor
