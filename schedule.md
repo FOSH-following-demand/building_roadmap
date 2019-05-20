@@ -17,7 +17,16 @@ Moreover, we will be developing scientific tools, which will hopefully reach a s
 
 **Week1:**
 - setup github repositories
- - in case needed learn the basics of GitHub, using the many tutorials online ([ex1](https://lab.github.com/), [ex2](https://help.github.com/en/articles/git-and-github-learning-resources), [ex3](https://git-scm.com/doc), [ex4](https://help.github.com/en/articles/set-up-git)).
+ - in case needed, learn the basics of GitHub using the many tutorials online: 
+ 
+ |Dedicated for researchers  | general audience tutorials |
+ |--|--|
+ |[Open Scapes](https://www.openscapes.org/) has chapters dedicated to GitHub use for scientists: [chapter 7](https://openscapes.github.io/series/github-pub.html) and [Chapter 8](https://openscapes.github.io/series/github-issues.html)| [tutorial 1](https://lab.github.com/)|
+ |[Open Science MOOC](https://opensciencemooc.eu/) also has content dedicated [bring researchers to GitHub](https://eliademy.com/catalog/catalog/product/view/sku/02d7338a7e)|[tutorial 2](https://help.github.com/en/articles/git-and-github-learning-resources)|
+ ||[tutorial 3](https://git-scm.com/doc)|
+ ||[tutorial 4](https://help.github.com/en/articles/set-up-git)|
+ 
+ 
 
 - create a repository for your project and clone the structure present on our [template repo](https://github.com/FOSH-following-demand/equipment_repository_template)
 
