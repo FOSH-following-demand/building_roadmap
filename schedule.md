@@ -26,7 +26,20 @@ Moreover, we will be developing scientific tools, which will hopefully reach a s
 | Week 8     | Demo          | Group call  |
 
 **Week1:**
+
 - Set up a github repository for your project, cloning the structure of our [template repo](https://github.com/FOSH-following-demand/equipment_repository_template).
+
+ - in case needed, learn the basics of GitHub using the many tutorials online: 
+ 
+ |Dedicated for researchers  | general audience tutorials |
+ |--|--|
+ |[Open Scapes](https://www.openscapes.org/) has chapters dedicated to GitHub use for scientists: [chapter 7](https://openscapes.github.io/series/github-pub.html) and [Chapter 8](https://openscapes.github.io/series/github-issues.html)| [tutorial 1](https://lab.github.com/)|
+ |[Open Science MOOC](https://opensciencemooc.eu/) also has content dedicated [bring researchers to GitHub](https://eliademy.com/catalog/catalog/product/view/sku/02d7338a7e)|[tutorial 2](https://help.github.com/en/articles/git-and-github-learning-resources)|
+ ||[tutorial 3](https://git-scm.com/doc)|
+ ||[tutorial 4](https://help.github.com/en/articles/set-up-git)|
+ 
+ 
+
 
 *Note: here are some other example repositories dealing with hardware: [actifield](https://github.com/trendinafrica/actifield), [LightM](https://github.com/vektorious/lightM).*
 
