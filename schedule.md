@@ -8,6 +8,8 @@ During the development of the projects we are going to put quite some emphasis i
 - Understand the current state of affairs in the project and make contributions.
 - Replicate what is being developed and adapt it for local needs/wishes.
 
+Documentation will be done in GitHub. Please make sure you're familiar with its basics by going through any of the many available tutorials online ([ex1](https://lab.github.com/), [ex2](https://help.github.com/en/articles/git-and-github-learning-resources), [ex3](https://git-scm.com/doc), [ex4](https://help.github.com/en/articles/set-up-git)).
+
 Moreover, we will be developing scientific tools, which will hopefully reach a state where they can be:
 - Calibrated and tested against "traditional tools".
 - Published in a peer reviewed journal.
@@ -15,8 +17,18 @@ Moreover, we will be developing scientific tools, which will hopefully reach a s
 ---
 ### Schedule
 
+| Week        | Products           | Call  |
+| ----------- | ------------------ | ----- |
+| Week 1      | GitHub repo + related_work.md + draft BoM          | 1st call with mentor  |
+| Week 2      | Order BoM + Dev Plan          | 2nd call with mentor  |
+| Week 3     | Contributing.md + CoC + updates on development          | 3rd call with mentor  |
+| Weeks 4-7     | Updates on development          | 4-7 calls with mentor  |
+| Week 8     | Demo          | Group call  |
+
 **Week1:**
-- setup github repositories
+
+- Set up a github repository for your project, cloning the structure of our [template repo](https://github.com/FOSH-following-demand/equipment_repository_template).
+
  - in case needed, learn the basics of GitHub using the many tutorials online: 
  
  |Dedicated for researchers  | general audience tutorials |
@@ -28,37 +40,43 @@ Moreover, we will be developing scientific tools, which will hopefully reach a s
  
  
 
-- create a repository for your project and clone the structure present on our [template repo](https://github.com/FOSH-following-demand/equipment_repository_template)
 
-- research existing projects - find what is already available, so that you don't reinvent the wheel. Contact developers, maybe they would like to remotely contribute!
+*Note: here are some other example repositories dealing with hardware: [actifield](https://github.com/trendinafrica/actifield), [LightM](https://github.com/vektorious/lightM).*
 
-- Draft a development plan (are you planning to 3D print the frame?, use modular elements?, make it battery powered?,wifi capabilities?).
+*Note 2: guidelines for a good readme by Mozilla can be found [here](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/) and a good example [here](https://github.com/KirstieJane/STEMMRoleModels)*
 
-- Add draft and research to the repository
+- Look up existing projects: find projects and resources available that can be useful for building your FOSH, so that you don't reinvent the wheel. Contact developers, maybe they would like to remotely contribute! Systematize these findings in related_work.md
 
-- first call with mentor
+- Draft a [bill of materials](https://github.com/FOSH-following-demand/equipment_repository_template/blob/master/hardware/BOM/BOM.md) 
+
+- First call with mentor
 
 **Week2:**
 
-- Work on development plan and initial bill of materials
-- add to the repository, if not there yet, readme file, a license file, a contributing file and a code of conduct file
- - Readme.md
-   - Write a bit about what you are doing and why
-   - Add a "existing projects" section and put all found projects there (see below for more details).
- - Code_of_conduct.md
-   - Show collaborators and developers best practice and set boundaries in case things go wrong.
+- Order parts listed in the Bill of Materials
 
-- here are some example repositories dealing with hardware: [actifield](https://github.com/trendinafrica/actifield), [LightM](https://github.com/vektorious/lightM).
+- Define a development plan following our template in dev_plan.md 
 
-- order parts
-- log advances and issues on repository
-- second call with mentor
+- Second call with mentor
 
 **Week3:**
 
-- tool development
-- order parts
-- log advances and issues on repository
-- third call with mentor
+- Add to the repository a contributing.md file and a code of conduct (Code_of_conduct.md) file
 
-**Week4:**
+*Note: guidelines for a good code of conduct by Mozilla can be found [here](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/) and for contributor guidelines, [here](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-contributor-guidelines/)*
+
+- Log advances and issues on repository - You can use GitHub's [project boards tool](https://help.github.com/en/articles/about-project-boards)
+
+- Third call with mentor
+
+**Weeks 4-7:**
+
+- Log advances and issues on repository
+
+- 4-7th calls with mentor
+
+**Week 8:**
+
+- Prepare a simple demo of your project
+- Join the group call
+- Celebrate :D
