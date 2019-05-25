@@ -15,6 +15,17 @@ Moreover, we will be developing scientific tools, which will hopefully reach a s
 - Published in a peer reviewed journal.
 
 ---
+
+### Communication
+
+Some teams have suggested that we create a Slack to improve communications with other teams, and also make it an inviting space for other people interested in this project. 
+
+So here is an invitation [link](https://join.slack.com/t/bfosh/shared_invite/enQtNjM0MDczNDg4NDE5LTY3YmMyNzA3OTkzYTJjYzViNzdjZDY2YjExMTFkYzQ1Y2VhOWNkZThhZTIwNmUzOTViZjdhMWVmYjg1YjA3YWY). 
+
+Interested people are welcome to join and introduce yourselves to the other teams in the **#introductions** channel!
+
+---
+
 ### Schedule
 
 | Week        | Products           | Call  |
